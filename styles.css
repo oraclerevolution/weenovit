@@ -1,0 +1,174 @@
+
+.send-message {
+    color: white;
+    font-weight: bold;
+    font-size: 35;
+    padding-left: 50px;
+    padding-right: 50px;
+    background:#771b0e;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    border-style: solid;
+    border-color: #771b0e;
+}
+
+.send-message:hover{
+    color: white;
+    font-weight: bold;
+    font-size: 35;
+    background-color: #771b0e;
+    border-style: solid;
+    border-color: #771b0e;
+
+}
+
+.decor {
+    color: white;
+    font-weight: 500;
+}
+
+.villes{
+    color: white;
+    font-weight: bold;
+}
+
+.regarder{
+   
+    font-weight: bold;
+    font-size: 25;
+    padding-left: 40px;
+    padding-right: 40px;
+    background:#771b0e;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    border-style: solid;
+    border-color: #771b0e;
+}
+
+
+
+.taille-entreprise{
+    margin-top: -5%;
+}
+
+.marge-interieure{
+    margin-left: 30%;
+    margin-bottom: 5%;
+    font-size: 20px;
+}
+.monbouton{
+    background-color: #771b0e;
+    color: white;
+    font-size: 15px;
+    font-weight: bold;
+    text-align: center;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-left: 35px;
+    padding-right: 35px;   
+}
+
+.monbouton:hover{
+    background-color: #771b0e;
+    color: white;
+    font-size: 15px;
+    font-weight: bold;
+    text-align: center;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-left: 35px;
+    padding-right: 35px;
+    transition: 1s;
+}
+
+.temoignages{
+    margin-top: 10px;
+    margin-bottom: 50px; 
+}
+
+.encercler{
+    height: 250px;
+    width: 100%;
+
+}
+
+.encercler-img1, .encercler-img2 , .encercler-img3{
+    background-size: cover;
+    height: 230px;
+    width: 230px;
+    margin: auto;
+    border-radius: 50%;
+}
+ 
+.encercler-img1{
+    background-image: url("assets/img/a.jpg");
+}
+
+.encercler-img2{
+    background-image: url("assets/img/b.jpg");
+}
+
+.encercler-img3{
+    background-image: url("assets/img/c.jpg");
+
+}
+
+
+.espaces{
+    font-weight: bold;
+    font-style: italic;
+    
+}
+
+.the-names{
+    text-align: center;
+    padding: 30px 0;
+    
+} 
+
+.reseaux{
+    background-color: white;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 35px;
+    padding-right: 35px;
+    color: #771b0e;
+    font-weight: bold;
+}
+
+.reseaux:hover{
+    background-color:#771b0e;
+    transition: 1.2s;
+    color: white;
+}
+
+.matailles{
+    height: 500px;
+}
+
+.matailles-container{
+    padding-top: 100px;
+}
+
+.change-couleur {
+    color: white;
+    font-weight: bold;
+}
+
+.chercher{
+    color: white;
+}
+
+.interesser{
+    font-weight: bold;
+    font-size: 29px;
+    color: #771b0e;
+}
+.interesser1{
+    font-size: 20px;
+    position: absolute;
+    left: 30%;
+    top: 100%;
+}
+
+
